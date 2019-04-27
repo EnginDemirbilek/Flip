@@ -1,6 +1,5 @@
 # Flip
-Native shellcode launcher with XOR encoding facilitie.
-
+Obfuscated shell code launcher generator.
 **USAGE**
 1. Replace shellcode with your's
 1. Compile flip.cpp it with your favorite compiler
