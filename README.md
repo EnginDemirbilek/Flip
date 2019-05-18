@@ -1,5 +1,6 @@
 # Flip
 Obfuscated shell code launcher generator.
+**DO NOT TEST IT WITH VIRUSTOTAL !!! USE ANTISCAN.ME **
 **USAGE**
 1. Replace shellcode with your's
 1. Compile flip.cpp it with your favorite compiler
